@@ -1,0 +1,57 @@
+
+.container{
+    width:290px;
+    height:470px;
+    margin:auto;
+    background-color: black;
+    border-radius: 20px;
+  }
+  
+
+  button {
+    height: 55px;
+    border-radius: 10px;
+    border: none;
+    width:50px;
+   
+    margin: 0 2px;
+    background-color: #333;
+    color: white;
+    font-size: 1.5rem;
+    transition: background-color 0.3s;
+}
+  .row{
+    margin: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:8px;
+  }
+  .inputt{
+    margin-top: 35px;
+     padding: 14px;
+    border-radius: 4px;
+    background-color:seagreen;
+    font-size: 17px;
+    color: white;
+  }
+  .row2{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .text-center {
+    text-align: center;
+  }
+  
+  .bg-black {
+    background: black;
+    border-radius: 10px;
+    height:350px;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
